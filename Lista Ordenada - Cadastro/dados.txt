@@ -1,0 +1,17 @@
+Lista: 
+====================================================
+ID: 1
+Nome: AEIOU
+RA: 7956
+Curso: GE
+
+ID: 2
+Nome: Jarro
+RA: 5646
+Curso: GE
+
+ID: 3
+Nome: Tavares
+RA: 4567
+Curso: GE
+
